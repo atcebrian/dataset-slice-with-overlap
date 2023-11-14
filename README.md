@@ -36,4 +36,5 @@ slice
 │         └── ...
 ├── slice.py
 └── README.md
+
 Slices the images of your anotated dataset into smaller tiles to make your training easier.
